@@ -7,3 +7,4 @@ menu: main
 ---
 
 Pozdrav svima.
+![Pas](/images/dog.png)

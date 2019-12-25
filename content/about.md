@@ -7,3 +7,4 @@ menu: main
 ---
 
 Hello everybody.
+![Dog](/images/dog.png)
