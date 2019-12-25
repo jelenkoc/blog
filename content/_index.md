@@ -1,5 +1,5 @@
 ---
-title: "My blog"
+title: "Moving images in space-time"
 featured_image: '/images/dog.jpg'
 description: "Blog that never stops."
 ---
