@@ -1,0 +1,32 @@
+[more]
+other = "Više"
+
+[allTitle]
+other = "Sve objave"
+
+[recentTitle]
+other = "Nedavne objave"
+
+[readMore]
+other = "Pročitaj više"
+
+[whatsInThis]
+other = "Sadržaj"
+
+[related]
+other = "Povezano"
+
+[yourName]
+other = "Vaše ime"
+
+[emailAddress]
+other = "Email adresa"
+
+[message]
+other = "Poruka"
+
+[emailRequiredNote]
+other = "Potrebna je e-mail adresa."
+
+[send]
+other = "Pošalji"

@@ -13,6 +13,7 @@ copyright = "Everything is mine"
     title = "My blog"
     weight = 1
   [languages.hr]
+    languageCode = "hr-HR"
     title = "Moj blog"
     weight = 2
     [languages.hr.params]
