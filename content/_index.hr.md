@@ -1,6 +1,6 @@
 ---
 title: "Moj blog"
-featured_image: '/images/dog.png'
+featured_image: '/images/dog.jpg'
 description: "Blog koji nikad ne staje."
 ---
 
