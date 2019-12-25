@@ -1,6 +1,6 @@
 ---
 title: "Moj drugi post"
-date: 2019-12-26   # vrijeme objave
+date: 2019-12-24   # vrijeme objave
 draft: true                       # oznaka je li nacrt ili ne
 featured_image: "/images/dog.jpg" # slika iznad posta
 toc: true                         # prikaže tablicu sadržaja
