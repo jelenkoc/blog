@@ -1,0 +1,26 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
+
+
+DefaultContentLanguage = "en"
+copyright = "Everything is mine"
+
+[languages]
+  [languages.en]
+    title = "My blog"
+    weight = 1
+    [languages.en.params]
+      linkedin = "https://linkedin.com/whoever"
+  [languages.hr]
+    title = "Moj blog"
+    weight = 2
+    [languages.hr.params]
+      linkedin = "https://linkedin.com/hr/whoever"
+      [languages.hr.params.navigation]
+        help = "Pomoć"
+
+[params]
+  [params.navigation]
+    help = "Help"
