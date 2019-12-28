@@ -1,7 +1,6 @@
 ---
-title: "Pokretne slike"
+title: "Pokretne slike u prostor-vremenu"
 featured_image: '/images/dog.jpg'
-description: "Blog koji nikad ne staje."
+description: "Filmovi i serije u povijesnom i zemljopisnom kontekstu"
 ---
 
-Dobrodošli na moj blog. Blog k'o blog. Ligatura ffi.
