@@ -6,10 +6,5 @@ type: page
 menu: main
 ---
 
-Pozdrav svima.
-![Pas](/images/dog.jpg "Pas slika")
-1. nešto
-2. n<span style="text-color: red;">eš</span>to dr
-* blala
-* dk
-> citat
+Blog posvećen svim ljubiteljima filmova / serija koji žele znati više o povijesnom i zemljopisnom kontekstu određenog filma ili serije.
+Blog je namijenjen i učenicima koji imaju problema s učenjem povijesti i / ili zemljopisa bez odgovarajućeg uporišta u memoriji. Filmovi i serije su jednostavne mnemotehnike koje nam pomažu u pridruživanju podataka koje želimo zapamtiti.
