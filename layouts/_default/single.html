@@ -21,7 +21,7 @@
       </h1>
       {{ with .Params.author }}
       <p class="tracked">
-         By <strong>{{ . | markdownify }}</strong>
+         <strong>{{ . | markdownify }}</strong>
       </p>
       {{ end }}
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}

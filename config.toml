@@ -10,11 +10,13 @@ copyright = "Everything is mine"
 
 [languages]
   [languages.en]
-    title = "Home"
+    title = "Moving images in space-time"
+    homepageTitle = "Home"
     weight = 1
   [languages.hr]
     languageCode = "hr-HR"
-    title = "Početna"
+    title = "Pokretne slike u prostor-vremenu"
+    homepageTitle = "Početna"
     weight = 2
     [languages.hr.params]
       [languages.hr.params.navigation]
