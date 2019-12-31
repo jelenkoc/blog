@@ -23,5 +23,6 @@ copyright = "Everything is mine"
         help = "Pomoć"
 
 [params]
+  mainURL = "//jelenko.crnjak.xyz"
   [params.navigation]
     help = "Help"
