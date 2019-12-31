@@ -4,6 +4,7 @@ date: 2019-12-30T23:10:00+00:00
 featured_image: "/images/The-Irishman-Movie-Poster-Netflix.jpg"
 toc: true
 author: ''
+summary: ''
 draft: true
 
 ---
