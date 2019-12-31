@@ -4,7 +4,6 @@ date: 2019-12-30T23:00:00.000+00:00
 featured_image: "/images/the-irishman-streaming-ita.jpg"
 toc: true
 author: ''
-draft: true
 
 ---
 **Directed by:**          Martin Scorsese
