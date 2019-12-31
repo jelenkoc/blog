@@ -1,7 +1,7 @@
 ---
 title: The Irishman (2019)
 date: 2019-12-24T23:37:41.000+00:00
-featured_image: "/images/dog.jpg"
+featured_image: ''
 toc: true
 author: ''
 draft: true
