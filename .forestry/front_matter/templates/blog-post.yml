@@ -23,3 +23,5 @@ fields:
 - type: textarea
   name: summary
   label: summary
+pages:
+- content/posts/irishman-2019.md
