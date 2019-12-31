@@ -20,3 +20,5 @@ fields:
 - type: textarea
   name: summary
   label: summary
+pages:
+- content/posts/drugi-post.md
