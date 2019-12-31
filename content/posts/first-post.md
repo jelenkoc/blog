@@ -25,6 +25,8 @@ Frank Sheeran _(Robert De Niro)_, a Mafia hitman, looks back on his life and his
 
 ### Space-time review
 
+The story takes place in the USA from mid 1950s to mid 1970s.
+
 **Jimmy Hoffa** (born February 14, 1913, Brazil, Indiana, U.S.—disappeared July 30, 1975, Bloomfield Hills, near Detroit, Michigan), American labour leader who served as president of the International Brotherhood of Teamsters from 1957 to 1971 and was one of the most controversial labour organizers of his time.
 
 #### Even smaller
