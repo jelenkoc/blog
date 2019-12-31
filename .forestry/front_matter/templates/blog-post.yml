@@ -4,25 +4,26 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: datetime
   name: date
-  label: date
+  label: Date
 - type: file
   name: featured_image
-  label: featured_image
+  label: Big picture at the top of the page
 - type: image_gallery
   name: images
-  label: images
+  label: Metadata image list
+  description: These images appear when shared on facebook, whatsapp, twitter etc.
 - type: boolean
   name: toc
-  label: toc
+  label: Table of Contents
 - type: text
   name: author
-  label: author
+  label: Author
 - type: textarea
   name: summary
-  label: summary
+  label: Summary
 pages:
 - content/posts/drugi-post.md
 - content/posts/first-post.hr.md
