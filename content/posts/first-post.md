@@ -1,7 +1,7 @@
 ---
 title: The Irishman (2019)
 date: 2019-12-30T23:00:00+00:00
-featured_image: static/images/the-irishman-streaming-ita.jpg
+featured_image: "/Media/the-irishman-streaming-ita.jpg"
 toc: true
 author: ''
 draft: true
@@ -21,11 +21,11 @@ draft: true
 
 **Starring:**              Robert De Niro, Al Pacino, Joe Pesci
 
-**Plot:** 
+**Plot:**
 
 Frank Sheeran _(Robert De Niro)_, a Mafia hitman, looks back on his life and his mob carrier with emphasis on his relationships with famous American labour leader, Jimmy Hoffa _(Al Pacino)_ and Russell Bufalino, the head of the Northeastern Pennsylvania crime family _(Joe Pesci)_.
 
-### Small title
+### Space-time review
 
 I left my mark here with a brush.
 
