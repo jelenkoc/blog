@@ -6,6 +6,7 @@ toc: true
 author: Vjeran Crnjak
 summary: Ovdje je svašta samo nije ono što treba biti. Nadamo se boljem, ali očito
   nikad nije. Nemoj tu krivo biti.
+images: []
 draft: true
 
 ---
