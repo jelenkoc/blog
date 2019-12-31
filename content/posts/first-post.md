@@ -1,13 +1,13 @@
 ---
-title: My First Post
+title: The Irishman (2019)
 date: 2019-12-24T23:37:41.000+00:00
 featured_image: "/images/dog.jpg"
 toc: true
-author: Jelenko Crnjak
+author: ''
 draft: true
 
 ---
-## The Irishman (2019)
+## 
 
 **![](images/Main image.jpg)**
 
