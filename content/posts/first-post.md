@@ -4,7 +4,10 @@ date: 2019-12-31T15:00:00+00:00
 featured_image: "/images/The-Irishman-Movie-Poster-Netflix.jpg"
 toc: true
 author: ''
-summary: ''
+summary: Frank Sheeran (Robert De Niro), a Mafia hitman, looks back on his life and
+  his mob carrier with emphasis on his relationships with famous American labour leader,
+  Jimmy Hoffa (Al Pacino) and Russell Bufalino, the head of the Northeastern Pennsylvania
+  crime family (Joe Pesci).
 draft: true
 
 ---
