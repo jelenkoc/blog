@@ -1,16 +1,12 @@
 ---
 title: The Irishman (2019)
-date: 2019-12-30T23:00:00+00:00
+date: 2019-12-30T23:00:00.000+00:00
 featured_image: "/images/the-irishman-streaming-ita.jpg"
 toc: true
 author: ''
 draft: true
 
 ---
-## 
-
-**![](images/Main image.jpg)**
-
 **Directed by:**          Martin Scorsese
 
 **Produced by:**        Martin Scorsese, Robert De Niro, Jane Rosenthal, Emma Tillinger Koskoff, Irwin Winkler, Gerald Chamales, Gastón Pavlovich, Randall Emmett, Gabriele Israilovici
