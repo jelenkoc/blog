@@ -1,8 +1,9 @@
 ---
 title: The Irishman (2019)
-date: 2019-12-31T15:00:00+00:00
+date: 2019-12-31T15:00:00.000+00:00
 featured_image: "/images/The-Irishman-Movie-Poster-Netflix.jpg"
-images: ["/images/The-Irishman-Movie-Poster-Netflix.jpg"]
+images:
+- "/images/The-Irishman-Movie-Poster-Netflix.jpg"
 toc: true
 author: ''
 summary: Frank Sheeran (Robert De Niro), a Mafia hitman, looks back on his life and
