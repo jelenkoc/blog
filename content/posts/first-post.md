@@ -1,7 +1,7 @@
 ---
 title: The Irishman (2019)
 date: 2019-12-30T23:00:00+00:00
-featured_image: media/the-irishman-streaming-ita.jpg
+featured_image: static/images/the-irishman-streaming-ita.jpg
 toc: true
 author: ''
 draft: true
