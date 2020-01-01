@@ -4,7 +4,7 @@ date: 2019-12-31T15:00:00.000+00:00
 featured_image: "/images/The-Irishman-Movie-Poster-Netflix.jpg"
 images:
 - "/images/The-Irishman-Movie-Poster-Netflix.jpg"
-toc: true
+toc: false
 author: ''
 summary: Frank Sheeran (Robert De Niro), a Mafia hitman, looks back on his life and
   his mob carrier with emphasis on his relationships with famous American labour leader,
@@ -16,12 +16,12 @@ draft: true
 ![](/images/main-image.jpg)
 
 |  |  |
-| --- | --- |
-| Directed by: | Martin Scorsese |
-| Produced by: | Martin Scorsese, Robert De Niro, Jane Rosenthal, Emma Tillinger Koskoff, Irwin Winkler, Gerald Chamales, Gastón Pavlovich, Randall Emmett, Gabriele Israilovici |
-| Screenplay by: | Steven Zaillian |
-| Based on book: | “I Heard You Paint Houses” by Charles Brandt |
-| Starring: | Robert De Niro, Al Pacino, Joe Pesci |
+|--------------------|:---:|
+| **Directed by:**   | Martin Scorsese |
+| **Produced by:**   | Martin Scorsese, Robert De Niro, Jane Rosenthal, Emma Tillinger Koskoff, Irwin Winkler, Gerald Chamales, Gastón Pavlovich, Randall Emmett, Gabriele Israilovici |
+| **Screenplay by:** | Steven Zaillian |
+| **Based on book:** | “I Heard You Paint Houses” by Charles Brandt |
+| **Starring:**      | Robert De Niro, Al Pacino, Joe Pesci |
 
 **Directed by:**          Martin Scorsese
 
