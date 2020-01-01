@@ -13,7 +13,7 @@ summary: Frank Sheeran (Robert De Niro), a Mafia hitman, looks back on his life 
 draft: true
 
 ---
-**![](/images/Main image.jpg)**
+![](/images/main-image.jpg)
 
 |  |  |
 | --- | --- |
