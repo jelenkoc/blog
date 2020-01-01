@@ -15,12 +15,13 @@ draft: true
 ---
 **![](/images/Main image.jpg)**
 
-| Directed by   |                                                                         Martin Scorsese                                                                         |
-|---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Produced by   | Martin Scorsese, Robert De Niro, Jane Rosenthal, Emma Tillinger Koskoff, Irwin Winkler, Gerald Chamales, Gastón Pavlovich, Randall Emmett, Gabriele Israilovici |
-| Screenplay by |                                                                         Steven Zaillian                                                                         |
-| Based on book |                                                           “I Heard You Paint Houses” by Charles Brandt                                                          |
-| Starring      |                                                               Robert De Niro, Al Pacino, Joe Pesci                                                              |
+|  |  |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Directed by:** | Martin Scorsese |
+| Produced by: | Martin Scorsese, Robert De Niro, Jane Rosenthal, Emma Tillinger Koskoff, Irwin Winkler, Gerald Chamales, Gastón Pavlovich, Randall Emmett, Gabriele Israilovici |
+| Screenplay by: | Steven Zaillian |
+| Based on book: | “I Heard You Paint Houses” by Charles Brandt |
+| Starring: | Robert De Niro, Al Pacino, Joe Pesci |
 
 **Directed by:**          Martin Scorsese
 
