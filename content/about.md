@@ -14,7 +14,7 @@ Idea was to combine somehow my affection towards movies and series with my inter
 Who could benefit from the blog:
 
 * quiz players
-* asspiring smartasses
+* aspiring smartasses
 * seducers
 
 ![Treci](/images/Treci_covjek.jpg)
