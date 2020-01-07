@@ -50,7 +50,7 @@ Frank Sheeran _(Robert De Niro)_, a Mafia hitman, looks back on his life and his
 
 ![](images/frank sheeran robert de.jpg)
 
-* **Francis Joseph Sheeran** (October 25, 1920 – December 14, 2003), known as Frank "The Irishman" Sheeran, was an American labor union official who was accused of having links to the Bufalino crime family. Sheeran was a leading figure in the corruption of unions by [organized crime](https://en.wikipedia.org/wiki/Organized_crime "Organized crime"). He was sentenced to a 32-year prison term and served 13 years
+* **Francis Joseph Sheeran** (October 25, 1920 – December 14, 2003), known as Frank "The Irishman" Sheeran, was an American labor union official who was accused of having links to the Bufalino crime family. Sheeran was a leading figure in the corruption of unions by organized crime. He was sentenced to a 32-year prison term and served 13 years
 
 ![](images/jimmy-hoffa-al-pacino-side-by-side.jpg)
 
