@@ -44,9 +44,16 @@ Frank Sheeran _(Robert De Niro)_, a Mafia hitman, looks back on his life and his
 
 * Frank Sheeran, Russell Bufalino and Jimmy Hoffa, depicted in a movie, are real-life persons
 
- 
+![](images/Joe Pesci -Russell Bufalino.jpg)
+
 * **Russell Bufalino** (October 29, 1903 – February 25, 1994) was an Italian-born American mobster who became the crime boss of the Northeastern Pennsylvania crime family known as the Bufalino crime family, which he ruled from 1959 to 1989. He was a cousin of attorney William Bufalino, the longtime counsel for Jimmy Hoffa. Totally, Bufalino served 13 years in prison for his crimes
+
+![](images/frank sheeran robert de.jpg)
+
 * **Francis Joseph Sheeran** (October 25, 1920 – December 14, 2003), known as Frank "The Irishman" Sheeran, was an American labor union official who was accused of having links to the Bufalino crime family. Sheeran was a leading figure in the corruption of unions by [organized crime](https://en.wikipedia.org/wiki/Organized_crime "Organized crime"). He was sentenced to a 32-year prison term and served 13 years
+
+![](images/jimmy-hoffa-al-pacino-side-by-side.jpg)
+
 * **Jimmy Hoffa** (born February 14, 1913, Brazil, Indiana, U.S.—disappeared July 30, 1975, Bloomfield Hills, near Detroit, Michigan), American labour leader who served as president of the International Brotherhood of Teamsters from 1957 to 1971 and was one of the most controversial labour organizers of his time.
 * Hoffa used Sheeran for muscle, including the assassination of disobedient union members and members of rival unions threatening the Teamsters' area of interest
 * After being found guilty of his crimes, Hoffa was sentenced to 13 years in prison. He was imprisoned in 1967, but released after only four years. Hoffa had arranged a pardon agreement with then-president Richard Nixon. One of the conditions was that he resign as union president.
