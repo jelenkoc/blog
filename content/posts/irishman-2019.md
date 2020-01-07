@@ -42,7 +42,7 @@ Frank Sheeran _(Robert De Niro)_, a Mafia hitman, looks back on his life and his
 
 **Fun facts:**
 
-* Frank Sheeran, Russell Bufalino and Jimmy Hoffa, depicted in a movie, are real-life persons
+* Frank Sheeran, Russell Bufalino and Jimmy Hoffa, depicted in the movie, are real-life persons
 
 ![](images/Joe Pesci -Russell Bufalino.jpg)
 
