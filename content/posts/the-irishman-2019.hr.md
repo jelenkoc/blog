@@ -11,30 +11,31 @@ toc = false
 +++
 ![](/images/main-image.jpg)
 
-**Directed by:**          Martin Scorsese
+**Redatelj:**          Martin Scorsese
 
-**Produced by:**        Martin Scorsese, Robert De Niro, Jane Rosenthal, Emma Tillinger Koskoff, Irwin Winkler, Gerald Chamales, Gastón Pavlovich, Randall Emmett, Gabriele Israilovici
+**Producenti:**        Martin Scorsese, Robert De Niro, Jane Rosenthal, Emma Tillinger Koskoff, Irwin Winkler, Gerald Chamales, Gastón Pavlovich, Randall Emmett, Gabriele Israilovici
 
-**Screenplay by:**     Steven Zaillian
+**Scenarij:**     Steven Zaillian
 
-**Based on book:**   “I Heard You Paint Houses” by Charles Brandt
+**Na osnovu knjižnog predloška:**   “I Heard You Paint Houses” by Charles Brandt
 
-**Starring:**              Robert De Niro, Al Pacino, Joe Pesci
+**Glumci:**              Robert De Niro, Al Pacino, Joe Pesci
 
-**Plot:**
+**Kratki sadržaj:**
 
-Frank Sheeran _(Robert De Niro)_, a Mafia hitman, looks back on his life and his mob carrier with emphasis on his relationships with famous American labour leader, Jimmy Hoffa _(Al Pacino)_ and Russell Bufalino, the head of the Northeastern Pennsylvania crime family _(Joe Pesci)_.
+Frank Sheeran (Robert De Niro), mafijaški plaćeni ubojica, osvrće se na svoj život i svoju mafijašku karijeru s naglaskom na svoje odnose s poznatim američkim sindikalnim vođom, Jimmyjem Hoffom (Al Pacino) i Russelom Bufalinom, čelnikom mafijaške obitelji sjeveroistočne Pennsylvanije. (Joe Pesci).
 
-**SPACE:** USA
-**TIME**: 1950s to 1970s
+**PROSTOR:** Sjedinjene Američke Države
 
-**Fun facts:**
+**VRIJEME**: 1950-te do 1970-tih
 
-* Frank Sheeran, Russell Bufalino and Jimmy Hoffa, depicted in the movie, are real-life persons
+**Zanimljivosti:**
+
+* Frank Sheeran, Russell Bufalino i Jimmy Hoffa, prikazani u filmu su stvarne osobe
 
 ![](/images/JoePesci-RussellBufalino.jpg)
 
-* **Russell Bufalino** (October 29, 1903 – February 25, 1994) was an Italian-born American mobster who became the crime boss of the Northeastern Pennsylvania crime family known as the Bufalino crime family, which he ruled from 1959 to 1989. He was a cousin of attorney William Bufalino, the longtime counsel for Jimmy Hoffa. Totally, Bufalino served 13 years in prison for his crimes
+* **Russell Bufalino** (29. studeni 1903. – 25. veljače 1994.) je bio američki mafijaš talijanskog podrijetla koji je postao was an Italian-born American mobster who became the crime boss of the Northeastern Pennsylvania crime family known as the Bufalino crime family, which he ruled from 1959 to 1989. He was a cousin of attorney William Bufalino, the longtime counsel for Jimmy Hoffa. Totally, Bufalino served 13 years in prison for his crimes
 
 ![](/images/FrankSheeran-RobertDeNiro.jpg)
 
