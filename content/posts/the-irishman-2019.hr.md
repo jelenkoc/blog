@@ -5,7 +5,7 @@ draft = true
 featured_image = "/images/The-Irishman-Movie-Poster-Netflix.jpg"
 images = ["/images/The-Irishman-Movie-Poster-Netflix.jpg"]
 summary = "Frank Sheeran (Robert De Niro), a Mafia hitman, looks back on his life and his mob carrier with emphasis on his relationships with famous American labour leader, Jimmy Hoffa (Al Pacino) and Russell Bufalino, the head of the Northeastern Pennsylvania crime family (Joe Pesci)."
-title = "The Irishman (2019)"
+title = "Irac / The Irishman (2019)"
 toc = false
 
 +++
