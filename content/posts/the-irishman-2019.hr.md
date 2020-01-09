@@ -1,6 +1,6 @@
 +++
 author = ""
-date = 2020-01-07T15:00:00Z
+date = 2020-01-09T15:00:00Z
 draft = true
 featured_image = "/images/The-Irishman-Movie-Poster-Netflix.jpg"
 images = ["/images/The-Irishman-Movie-Poster-Netflix.jpg"]
@@ -17,7 +17,7 @@ toc = false
 
 **Scenarij:**     Steven Zaillian
 
-**Na osnovu knjižnog predloška:**   “I Heard You Paint Houses” by Charles Brandt
+**Na osnovu književnog predloška:**   “I Heard You Paint Houses” by Charles Brandt
 
 **Glumci:**              Robert De Niro, Al Pacino, Joe Pesci
 
