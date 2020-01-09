@@ -1,7 +1,6 @@
 ---
-title: "Moving images in space-time"
-featured_image: '/images/dog.jpg'
-description: "Blog that never stops."
----
+title: Moving images in space-time
+featured_image: "/images/dog.jpg"
+description: Movies and series in historical and geographical context
 
-Welcome to my blog. Blog like a blog. Ligature ffi.
+---
