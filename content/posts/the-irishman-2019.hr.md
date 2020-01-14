@@ -17,7 +17,7 @@ toc = false
 
 **Scenarij:**     Steven Zaillian
 
-**Književni predložak:**   “I Heard You Paint Houses” by Charles Brandt
+**Književni predložak:**   “I Heard You Paint Houses”  (Charles Brandt)
 
 **Glumci:**              Robert De Niro, Al Pacino, Joe Pesci
 
