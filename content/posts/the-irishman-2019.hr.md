@@ -17,7 +17,7 @@ toc = false
 
 **Scenarij:**     Steven Zaillian
 
-**Na osnovu književnog predloška:**   “I Heard You Paint Houses” by Charles Brandt
+**Književni predložak:**   “I Heard You Paint Houses” by Charles Brandt
 
 **Glumci:**              Robert De Niro, Al Pacino, Joe Pesci
 
@@ -35,11 +35,11 @@ Frank Sheeran (Robert De Niro), mafijaški plaćeni ubojica, osvrće se na svoj 
 
 ![](/images/JoePesci-RussellBufalino.jpg)
 
-* **Russell Bufalino** (29. studeni 1903. – 25. veljače 1994.) je bio američki mafijaš talijanskog podrijetla koji je postao was an Italian-born American mobster who became the crime boss of the Northeastern Pennsylvania crime family known as the Bufalino crime family, which he ruled from 1959 to 1989. He was a cousin of attorney William Bufalino, the longtime counsel for Jimmy Hoffa. Totally, Bufalino served 13 years in prison for his crimes
+* **Russell Bufalino** (29. studenog 1903. – 25. veljače 1994.) je bio američki mafijaš talijanskog podrijetla koji je bio na čelu mafijaške obitelji Bufalino iz sjevernoistočne Pensilvanije u periodu od 1959. do 1989. Njegov bratić, odvjetnik William Bufalino, je bio dugogodišnji suradnik Jimmyja Hoffe.  Bufalino je proveo ukupno 13 godina u zatvoru zbog svojih zločina.
 
 ![](/images/FrankSheeran-RobertDeNiro.jpg)
 
-* **Francis Joseph Sheeran** (October 25, 1920 – December 14, 2003), known as Frank "The Irishman" Sheeran, was an American labor union official who was accused of having links to the Bufalino crime family. Sheeran was a leading figure in the corruption of unions by organized crime. He was sentenced to a 32-year prison term and served 13 years
+* **Francis Joseph Sheeran** (25. listopada 1920. – 14. prosinca 2003.), poznat kao Frank "Irac" Sheeran, je bio američki sindikalni dužnosnik optužen za veze s mafijaškom obitelji Bufalino. Sheeran je vodeća ličnost u smislu korupcije unutar sindikata vezano uz organizirani kriminal. Osuđen je na 32 godine zatvora, od kojih je odsjedio 13 godina.
 
 ![](/images/JimmyHoffa-AlPacino.jpg)
 
