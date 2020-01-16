@@ -26,7 +26,7 @@ summary: Frank Sheeran (Robert De Niro), a Mafia hitman, looks back on his life 
 
 **Plot:**
 
-Frank Sheeran _(Robert De Niro)_, a Mafia hitman, looks back on his life and his mob career with emphasis on his relationships with famous American labour leader, Jimmy Hoffa _(Al Pacino)_ and Russell Bufalino, the head of the Northeastern Pennsylvania crime family _(Joe Pesci)_.
+Frank Sheeran _(Robert De Niro)_, a Mafia hitman, looks back on his life and his mob career with emphasis on his relationships with famous American labour leader, Jimmy Hoffa _(Al Pacino)_ and Russell Bufalino _(Joe Pesci)_, the head of the Northeastern Pennsylvania crime family.
 
 **SPACE:** USA
 
