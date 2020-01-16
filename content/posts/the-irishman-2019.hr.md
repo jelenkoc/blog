@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2020-01-09T15:00:00Z
-draft = true
 featured_image = "/images/The-Irishman-Movie-Poster-Netflix.jpg"
 images = ["/images/The-Irishman-Movie-Poster-Netflix.jpg"]
 summary = "Frank Sheeran (Robert De Niro), mafijaški plaćeni ubojica, osvrće se na svoj život i svoju mafijašku karijeru s naglaskom na svoje odnose s poznatim američkim sindikalnim vođom, Jimmyjem Hoffom (Al Pacino) i Russelom Bufalinom, čelnikom mafijaške obitelji sjeveroistočne Pennsylvanije. (Joe Pesci)."
@@ -23,7 +22,7 @@ toc = false
 
 **Kratki sadržaj:**
 
-Frank Sheeran (Robert De Niro), mafijaški plaćeni ubojica, osvrće se na svoj život i svoju mafijašku karijeru s naglaskom na svoje odnose s poznatim američkim sindikalnim vođom, Jimmyjem Hoffom (Al Pacino) i Russelom Bufalinom, čelnikom mafijaške obitelji sjeveroistočne Pennsylvanije. (Joe Pesci).
+Frank Sheeran _(Robert De Niro)_, mafijaški plaćeni ubojica, osvrće se na svoj život i svoju mafijašku karijeru s naglaskom na svoje odnose s poznatim američkim sindikalnim vođom, Jimmyjem Hoffom _(Al Pacino)_ i Russelom Bufalinom  _(Joe Pesci)_, čelnikom mafijaške obitelji sjeveroistočne Pennsylvanije.
 
 **PROSTOR:** Sjedinjene Američke Države
 
@@ -43,10 +42,10 @@ Frank Sheeran (Robert De Niro), mafijaški plaćeni ubojica, osvrće se na svoj 
 
 ![](/images/JimmyHoffa-AlPacino.jpg)
 
-* **Jimmy Hoffa** (born February 14, 1913, Brazil, Indiana, U.S.—disappeared July 30, 1975, Bloomfield Hills, near Detroit, Michigan), American union leader who served as president of the International Brotherhood of Teamsters from 1957 to 1971 and was one of the most controversial labour organizers of his time.
-* Hoffa used Sheeran for muscle, including the assassination of disobedient union members and members of rival unions threatening the Teamsters' area of interest
-* After being found guilty of his crimes, Hoffa was sentenced to 13 years in prison. He was imprisoned in 1967, but released after only four years. Hoffa had arranged a pardon agreement with then-president Richard Nixon. One of the conditions was that he resign as union president.
-* It was alleged that Nixon was paid $1 million or more to release Hoffa and get the support of the IBT for reelection as a president
-* After his release, Hoffa began trying to reclaim control of the Teamsters, and mobsters reportedly feared that he would be willing to cooperate with authorities. On July 30, 1975, Hoffa disappeared and was never seen again. So, according to Sheeran’s account, Bufalino and other high-ranking mafia members decided to have Hoffa murdered. Bufalino was never accused for Hoffa’s murder
-* Hoffa’s son, James P. Hoffa, became the president of the IBT in 1999
-* As per Corruption Perception index by Transparency International for 2018, the USA took the 21st place while Croatia is on the 60th position (less is better)
+* Jimmy Hoffa (rođen 14. veljače 1913., Brazil, Indiana, SAD - nestao 30. srpnja 1975., Bloomfield Hills, nedaleko od Detroita, Michigan), američki sindikalni vođa,  predsjednik sindikata International Brotherhood of Teamsters od 1957. do 1971. godine i  jedan od najkontroverznijih radničkih vođa svoga vremena.
+* Hoffa je Sheerana koristio za prljave poslove, uključujući i atentate na neposlušne članove sindikata i članove suparničkih sindikata koji prijete području interesa Teamstera.
+* Nakon što je proglašen krivim za svoje zločine, Hoffa je osuđen na 13 godina zatvora. Zatvoren je 1967., ali je pušten nakon samo četiri godine. Hoffa je sklopio sporazum o pomilovanju s tadašnjim predsjednikom Richardom Nixonom. Jedan od uvjeta je bio da podnese ostavku na mjesto predsjednika sindikata.
+* Navodno je Nixonu plaćeno milijun ili više dolara za puštanje Hoffe iz zatvora i dobivanje potpore IBT-a za ponovni izbor na mjesto predsjednika SAD-a.
+* Nakon puštanja na slobodu, Hoffa je pokušao povratiti kontrolu nad Teamsterima, što je kod mafijaša, navodno, izazvalo bojazan da će biti voljan surađivati ​​s vlastima. 30. srpnja 1975. Hoffa je nestao i više nikada nije viđen. Prema Sheeranovom iskazu, Bufalino i ostali visoki pripadnici mafije su zato odlučili ubiti Hoffu. Bufalino nikada nije optužen za Hoffino ubojstvo.
+* Hoffin sin, James P. Hoffa, postao je predsjednikom IBT-a 1999. godine.
+* Prema indeksu percepcije korupcije Transparency Internationala za 2018. godinu, SAD su zauzele 21. mjesto dok je Hrvatska na 60. mjestu (niža pozicija je bolja).
