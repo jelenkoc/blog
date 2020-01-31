@@ -23,7 +23,7 @@ The adventures of Ragnar Lothbrok, the greatest Viking hero of his age. The seri
 
 **SPACE:** Northern Europe, Scandinavia, UK, France, Mediterranean, Russia, Ukraine
 
-**TIME**: 8th to 9th Century
+**TIME**: 9th- 10th centuries
 
 **Fun facts:**
 
