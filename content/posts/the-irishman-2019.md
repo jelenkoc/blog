@@ -9,8 +9,7 @@ title = "Vikings (2013-)"
 toc = false
 
 +++
-![](/images/main-image.jpg)
-![](images/Vikings_small.jpg)
+![](/images/Vikings_small.jpg)
 
 **Directed by**:         Various directors
 
