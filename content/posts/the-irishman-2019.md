@@ -1,33 +1,29 @@
 +++
 author = ""
-date = 2020-01-07T15:00:00Z
+date = 2020-01-31T23:00:00Z
 draft = true
-featured_image = "/images/The-Irishman-Movie-Poster-Netflix.jpg"
-images = ["/images/The-Irishman-Movie-Poster-Netflix.jpg"]
-summary = "Frank Sheeran (Robert De Niro), a Mafia hitman, looks back on his life and his mob career with emphasis on his relationships with famous American labour leader, Jimmy Hoffa (Al Pacino) and Russell Bufalino, the head of the Northeastern Pennsylvania crime family (Joe Pesci)."
-title = "The Irishman (2019)"
+featured_image = "images/Vikingsmain.jpg"
+images = []
+summary = "Vikings follows the adventures of Ragnar Lothbrok the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. "
+title = "Vikings (2013-)"
 toc = false
 
 +++
-![](/images/main-image.jpg)
+![](images/Vikings_small.jpg)
 
-**Directed by:**          Martin Scorsese
+**Directed by**:         Various directors
 
-**Produced by:**        Martin Scorsese, Robert De Niro, Jane Rosenthal, Emma Tillinger Koskoff, Irwin Winkler, Gerald Chamales, Gastón Pavlovich, Randall Emmett, Gabriele Israilovici
+**Screenplay by:**     Michael Hirst
 
-**Screenplay by:**     Steven Zaillian
-
-**Based on book:**   “I Heard You Paint Houses” by Charles Brandt
-
-**Starring:**              Robert De Niro, Al Pacino, Joe Pesci
+**Starring:**              Gabriel Byrne, Travis Fimmel, Clive Standen, Katheryn Winnick, Jessalyn Gilsig and Gustaf Skarsgård
 
 **Plot:**
 
-Frank Sheeran _(Robert De Niro)_, a Mafia hitman, looks back on his life and his mob career with emphasis on his relationships with famous American labour leader, Jimmy Hoffa _(Al Pacino)_ and Russell Bufalino _(Joe Pesci)_, the head of the Northeastern Pennsylvania crime family.
+The adventures of Ragnar Lothbrok, the greatest Viking hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. Later series describe the stories about his descendants.
 
-**SPACE:** USA
+**SPACE:** Northern Europe, Scandinavia, UK, France, Mediterranean, Russia, Ukraine
 
-**TIME**: 1950s to 1970s
+**TIME**: 8th to 9th Century
 
 **Fun facts:**
 
