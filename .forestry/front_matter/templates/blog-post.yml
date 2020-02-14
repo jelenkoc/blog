@@ -25,7 +25,7 @@ fields:
   name: summary
   label: Summary
 pages:
+- content/posts/Peanut_Butter_2019.md
 - content/posts/irishman-2019.hr.md
 - content/posts/irishman-2019.md
-- content/posts/vikings-2013.md
 - content/posts/vikings.md
