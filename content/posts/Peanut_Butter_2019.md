@@ -11,23 +11,23 @@ toc = false
 +++
 ![](/images/Vikings_small.jpg)
 
-**Directed by**:         Various directors
+**Directed by**:         Tyler Nilson, Michael Schwartz
 
-**Screenplay by:**     Michael Hirst
+**Screenplay by:**     Tyler Nilson, Michael Schwartz
 
-**Starring:**              Gabriel Byrne, Travis Fimmel, Clive Standen, Katheryn Winnick, Jessalyn Gilsig and Gustaf Skarsgård
+**Starring:**              Shia LaBeouf, Dakota Johnson, Zack Gottsagen, Thomas Haden Church
 
 **Plot:**
 
-The adventures of Ragnar Lothbrok, the greatest Viking hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. Later series describe the stories about his descendants.
+A modern Mark Twain style adventure story, THE PEANUT BUTTER FALCON tells the story of Zak (_Zack Gottsagen_), a young man with Down syndrome, who runs away from a residential nursing home to follow his dream of attending the professional wrestling school of his idol, The Salt Water Redneck (_Thomas Haden Church_). A strange turn of events pairs him on the road with Tyler (_Shia LaBeouf_), a small time outlaw on the run, who becomes Zak's unlikely coach and ally. Together they wind through deltas, elude capture, drink whisky, find God, catch fish, and convince Eleanor (_Dakota Johnson_), a kind nursing home employee charged with Zak's return, to join them on their journey.
 
-**SPACE:** Northern Europe, Scandinavia, UK, France, Mediterranean, Russia, Ukraine
+**SPACE:** North Carolina
 
-**TIME**: 9th - 10th centuries
+**TIME**: Present
 
 **Fun facts:**
 
-* Frank Sheeran, Russell Bufalino and Jimmy Hoffa, depicted in the movie, are real-life persons
+* North Carolina was established as a royal colony in 1729 and is one of the original Thirteen Colonies. North Carolina is named in honor of King Charles I of England who first formed the English colony, with Carolus being Latin for "Charles". North Carolina declared its secession from the Union (American Civil War) on May 20, 1861, becoming the last of eleven states to join the Confederate States.
 
 ![](/images/JoePesci-RussellBufalino.jpg)
 
