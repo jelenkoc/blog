@@ -2,10 +2,10 @@
 author = ""
 date = 2020-01-31T23:00:00Z
 draft = true
-featured_image = "images/Vikingsmain.jpg"
+featured_image = "images/Peanut-Butter-Falcon_large.jpg"
 images = []
 summary = "Vikings follows the adventures of Ragnar Lothbrok the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. "
-title = "Vikings (2013-)"
+title = "The Peanut Butter Falcon (2019)"
 toc = false
 
 +++
