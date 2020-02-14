@@ -9,7 +9,7 @@ title = "The Peanut Butter Falcon (2019)"
 toc = false
 
 +++
-![](/images/Vikings_small.jpg)
+![](/images/Peanut-Butter-Falconsmall.jpg)
 
 **Directed by**:         Tyler Nilson, Michael Schwartz
 
