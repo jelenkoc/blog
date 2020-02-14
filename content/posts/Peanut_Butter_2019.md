@@ -29,9 +29,10 @@ A modern Mark Twain style adventure story, THE PEANUT BUTTER FALCON tells the st
 
 * North Carolina was established as a royal colony in 1729 and is one of the original Thirteen Colonies. North Carolina is named in honor of King Charles I of England who first formed the English colony, with Carolus being Latin for "Charles". North Carolina declared its secession from the Union (American Civil War) on May 20, 1861, becoming the last of eleven states to join the Confederate States.
 
-  ![](images/nc_flag.gif)
+![](images/nc_flag.gif)
+
 * North Carolina is the largest producer of sweet potatoes in the nation.
 * North Carolina is one of the top three states to be hit by hurricanes every year. The other two are Florida and Louisiana.
 * Pepsi was invented in North Carolina by a drugstore clerk named Caleb Bradham. He originally named it “Brad’s Drink.” He was a doctor in training at the time and believed his syrupy concoction aided digestion. He re-named it “Pepsi-Cola” in 1898 after the word “dyspepsia.”
 
-  ![](images/pepsi_newspaper_ad_1919.png)
+![](images/pepsi_newspaper_ad_1919.png)
