@@ -3,7 +3,7 @@ author = ""
 date = 2020-02-13T23:00:00Z
 featured_image = "images/Peanut-Butter-Falcon_large.jpg"
 images = []
-summary = "Vikings follows the adventures of Ragnar Lothbrok the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. "
+summary = "A modern Mark Twain style adventure story, THE PEANUT BUTTER FALCON tells the story of Zak, a young man with Down syndrome, who runs away from a residential nursing home to follow his dream of attending the professional wrestling school."
 title = "The Peanut Butter Falcon (2019)"
 toc = false
 
