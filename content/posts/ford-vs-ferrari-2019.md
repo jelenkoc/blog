@@ -1,11 +1,11 @@
 +++
 author = ""
-date = 2020-02-13T23:00:00Z
+date = 2020-02-29T23:00:00Z
 draft = true
 featured_image = "images/Peanut-Butter-Falcon_large.jpg"
 images = []
 summary = "A modern Mark Twain style adventure story, THE PEANUT BUTTER FALCON tells the story of Zak, a young man with Down syndrome, who runs away from a residential nursing home to follow his dream of attending the professional wrestling school."
-title = "The Peanut Butter Falcon (2019)"
+title = "Ford v Ferrari (2019)"
 toc = false
 
 +++
