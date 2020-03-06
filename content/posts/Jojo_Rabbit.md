@@ -1,6 +1,6 @@
 +++
 author = ""
-date = 2020-01-31T23:00:00Z
+date = 2020-03-05T23:00:00Z
 draft = true
 featured_image = "images/JOJO_RABBIT_MAIN.jpg"
 images = []
@@ -31,10 +31,11 @@ Johannes "Jojo" Betzler, a Hitler Youth member finds out his mother  is hiding a
 
 ![](/images/Hitler-salute-2-2759aff.jpg)
 
-* Like all prestigious Nazi institutions, there were racial checks put in place to ensure only the creme de la creme (for a lack of a better word) of the German society, aka the Aryans, were admitted into the organisation. This vetting period began at 10, and if you were a true Aryan in the eyes of the National Socialists, you were admitted at 13 and graduated at 18. You were expected to be an elite of Nazi society, show to the world why the Germans were the greatest race on Earth. It truly did brainwash a lot of kids, and gave Hitler, Himmler, Goebbels and so many others the power to control the youth and shape Germany for the future.
+* Upon reaching his 10th birthday, a German boy was registered and investigated (especially for “racial purity”) and, if qualified, inducted into the Deutsches Jungvolk (“German Young People”). At age 13 the youth became eligible for the Hitler Youth, from which he was graduated at age 18. Throughout these years he lived a spartan life of dedication, fellowship, and Nazi conformity, generally with minimum parental guidance. From age 18 he was a member of the [Nazi Party](https://www.britannica.com/topic/Nazi-Party) and served in the state labour service and the armed forces until at least the age of 21.
 
 ![](/images/main-qimg-43eb602f0e384f71e6a4250f4b9047f5.webp)
 
+* Two leagues also existed for girls. The League of German Girls (Bund Deutscher Mädel) trained girls ages 14 to 18 for comradeship, domestic duties, and motherhood. Jungmädel (“Young Girls”) was an organization for girls ages 10 to 14.
 * The Hitler Youth were used to spy on religious classes, Bible studies and other youth organisations.
 * As the war deepened and Germany was running out of men, Hitler Youth were used to fill some positions normally associated with the military within Germany. They were used to supplant the local **Volkssturm** (local militia) units in some places. They manned anti-aircraft guns, as previously noted in another answer.
 
