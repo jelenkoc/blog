@@ -25,9 +25,9 @@ fields:
   name: summary
   label: Summary
 pages:
+- content/posts/Jojo_Rabbit.md
 - content/posts/ford-vs-ferrari-2019.md
 - content/posts/irishman-2019.hr.md
 - content/posts/irishman-2019.md
 - content/posts/peanut-butter-falcon-2019.md
-- content/posts/vikings-2013.md
 - content/posts/vikings.md
