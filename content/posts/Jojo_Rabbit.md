@@ -36,6 +36,9 @@ Johannes "Jojo" Betzler, a Hitler Youth member finds out his mother  is hiding a
 ![](/images/main-qimg-43eb602f0e384f71e6a4250f4b9047f5.webp)
 
 * Two leagues also existed for girls. The League of German Girls (Bund Deutscher Mädel) trained girls ages 14 to 18 for comradeship, domestic duties, and motherhood. Jungmädel (“Young Girls”) was an organization for girls ages 10 to 14.
+
+![](/images/BUND_detche_madel.jpg)
+
 * The Hitler Youth were used to spy on religious classes, Bible studies and other youth organisations.
 * As the war deepened and Germany was running out of men, Hitler Youth were used to fill some positions normally associated with the military within Germany. They were used to supplant the local **Volkssturm** (local militia) units in some places. They manned anti-aircraft guns, as previously noted in another answer.
 
