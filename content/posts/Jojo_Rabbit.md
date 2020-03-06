@@ -5,7 +5,7 @@ draft = true
 featured_image = "images/JOJO_RABBIT_MAIN.jpg"
 images = []
 summary = "Jojo Rabbit is a World War II satire that follows a 10-year old German boy, a Hitler Youth member, whose world view is turned upside down when he discovers that his single mother is hiding a young Jewish girl in their attic."
-title = "Jojo Rabbit (2019)                  in time and space"
+title = "Jojo Rabbit (2019)                                                                                                                  in time and space"
 toc = false
 
 +++
