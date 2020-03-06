@@ -4,7 +4,7 @@ date = 2020-03-05T23:00:00Z
 draft = true
 featured_image = "images/JOJO_RABBIT_MAIN.jpg"
 images = []
-summary = "Vikings follows the adventures of Ragnar Lothbrok the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. "
+summary = "Jojo Rabbit is a World War II satire that follows a 10-year old German boy, a Hitler Youth member, whose world view is turned upside down when he discovers that his single mother is hiding a young Jewish girl in their attic."
 title = "Jojo Rabbit (2019)"
 toc = false
 
@@ -31,7 +31,7 @@ Johannes "Jojo" Betzler, a Hitler Youth member finds out his mother  is hiding a
 
 ![](/images/Hitler-salute-2-2759aff.jpg)
 
-* Upon reaching his 10th birthday, a German boy was registered and investigated (especially for “racial purity”) and, if qualified, inducted into the Deutsches Jungvolk (“German Young People”). At age 13 the youth became eligible for the Hitler Youth, from which he was graduated at age 18. Throughout these years he lived a spartan life of dedication, fellowship, and Nazi conformity, generally with minimum parental guidance. From age 18 he was a member of the [Nazi Party](https://www.britannica.com/topic/Nazi-Party) and served in the state labour service and the armed forces until at least the age of 21.
+* Upon reaching his 10th birthday, a German boy was registered and investigated (especially for “racial purity”) and, if qualified, inducted into the Deutsches Jungvolk (“German Young People”). At age 13 the youth became eligible for the Hitler Youth, from which he was graduated at age 18. Throughout these years he lived a spartan life of dedication, fellowship, and Nazi conformity, generally with minimum parental guidance. From age 18 he was a member of the Nazi Party and served in the state labour service and the armed forces until at least the age of 21.
 
 ![](/images/main-qimg-43eb602f0e384f71e6a4250f4b9047f5.webp)
 
