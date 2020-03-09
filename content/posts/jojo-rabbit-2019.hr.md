@@ -33,7 +33,7 @@ Johannes "Jojo" Betzler, član Hitlerove mladeži,  saznaje da njegova majka kri
 
 ![](/images/Hitler-salute-2-2759aff.jpg)
 
-* Nakon što bi navršio svoj 10. rođendan, njemački dječak bi bio registriran i testiran (posebno na "rasnu čistoću") i, ako bi bio kvalificiran, postao bi član Deutsches Jungvolk ("Njemački mladi"). U dobi od 13 godina, mladić bi stekao pravo na pristup u Hitlerovu mladež čiji bi bio član do 18. godine. Tijekom tih godina, živio bi spartanski život posvećenosti, zajedništva i posvećenosti nacizmu, uglavnom s minimalnim roditeljskim vodstvom. Od 18. godine bio bi pripadnik nacističke stranke i služio u državnoj službi  i oružanim snagama do najmanje 21. godine.
+* Nakon što bi navršio svoj 10. rođendan, njemački dječak bi bio registriran i testiran (posebno na "rasnu čistoću") i, ako bi bio kvalificiran, postao bi član Deutsches Jungvolk ("Njemački mladi"). U dobi od 13 godina, mladić bi stekao pravo na pristup u Hitlerovu mladež čiji bi bio član do 18. godine. Tijekom tih godina, živio bi spartanski život zajedništva i posvećenosti nacizmu, uglavnom s minimalnim roditeljskim vodstvom. Od 18. godine bio bi pripadnik nacističke stranke i služio u državnoj službi  i oružanim snagama do najmanje 21. godine.
 
 ![](/images/main-qimg-43eb602f0e384f71e6a4250f4b9047f5.webp)
 
@@ -42,9 +42,7 @@ Johannes "Jojo" Betzler, član Hitlerove mladeži,  saznaje da njegova majka kri
 ![](/images/BUND_detche_madel.jpg)
 
 * Hitlerova mladež koristila se za špijuniranje vjerskih predavanja, vjeronauka i drugih omladinskih organizacija.
-* Kako je rat sve više trajao, a Njemačkoj je ponestajalo muškaraca, Hitlerova mladež korištena je za popunjavanje nekih pozicija obično povezanih s vojskom unutar granica Njemačke. Oni su korišteni za popunu lokalnih jedinica Volkssturma (lokalnih milicija). Isto tako, služili su i kao pripadnici posada protuzračne obrane.
-
-  U završnim mjesecima rata, neki su, iako još uvijek djeca, poslani u stvarne vojne jedinice i od njih se očekivalo da se bore do smrti.
+* Kako je rat sve više trajao, a Njemačkoj je ponestajalo muškaraca, Hitlerova mladež korištena je za popunjavanje nekih pozicija obično povezanih s vojskom unutar granica Njemačke. Oni su korišteni za popunu lokalnih jedinica Volkssturma (lokalnih milicija). Isto tako, služili su i kao pripadnici posada protuzračne obrane. U završnim mjesecima rata, neki su, iako još uvijek djeca, poslani u stvarne vojne jedinice i od njih se očekivalo da se bore do smrti.
 
 ![](/images/Nazi-child-1.jpg)
 
