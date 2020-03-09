@@ -27,7 +27,7 @@ Johannes "Jojo" Betzler, član Hitlerove mladeži,  saznaje da njegova majka kri
 
 **Zanimljivosti:**
 
-* **Hitlerova mladež (**njemački, Hitlerjugend) je organizacija za obrazovanje i obuku muške mladeži na nacističkim principima koju je osnovao Adolf Hitler 1933. godine . Pod vodstvom Baldura von Schiracha, voditelja svih njemačkih programa za mlade, Hitlerova mladež je do 1935. godine uključivala gotovo 60 posto njemačkih dječaka. 
+* **Hitlerova mladež** (njemački, Hitlerjugend) je organizacija za obrazovanje i obuku muške mladeži na nacističkim principima koju je osnovao Adolf Hitler 1933. godine . Pod vodstvom Baldura von Schiracha, voditelja svih njemačkih programa za mlade, Hitlerova mladež je do 1935. godine uključivala gotovo 60 posto njemačkih dječaka.
 
   1\. srpnja 1936. postala je državna agencija kojoj su se trebali pridružiti svi mladi "arijski" Nijemci.
 
@@ -42,8 +42,8 @@ Johannes "Jojo" Betzler, član Hitlerove mladeži,  saznaje da njegova majka kri
 ![](/images/BUND_detche_madel.jpg)
 
 * Hitlerova mladež koristila se za špijuniranje vjerskih predavanja, vjeronauka i drugih omladinskih organizacija.
-* Kako je rat sve više trajao, a Njemačkoj je ponestajalo muškaraca, Hitlerova mladež korištena je za popunjavanje nekih pozicija obično povezanih s vojskom unutar granica Njemačke. Oni su korišteni za popunu lokalnih jedinica Volkssturma (lokalnih milicija). Isto tako, služili su i kao pripadnici posada protuzračne obrane. U završnim mjesecima rata, neki su, iako još uvijek djeca, poslani u stvarne vojne jedinice i od njih se očekivalo da se bore do smrti.
+* Kako je rat sve više odmicao, a Njemačkoj je ponestajalo muškaraca, Hitlerova mladež korištena je za popunjavanje nekih pozicija obično povezanih s vojskom unutar granica Njemačke. Oni su korišteni za popunu lokalnih jedinica Volkssturma (lokalnih milicija). Isto tako, služili su i kao pripadnici posada protuzračne obrane. U završnim mjesecima rata, neki su, iako još uvijek djeca, poslani u stvarne vojne jedinice i od njih se očekivalo da se bore do smrti.
 
 ![](/images/Nazi-child-1.jpg)
 
-* Jednu bitku tijekom zauzimanje Berlina vodila je postrojba Hitlerove mladeži koja je pomagala u obrani Reichstaga. Prema svim mjerilima, oni su se fanatično borili do smrti. Procjene žrtava na sovjetskoj strani, prilikom zauzimanja te zgrade, idu čak do 10.000. Iako je to teško provjeriti, nema sumnje da je to bilo pravo krvoproliće u kojem su sudjelovala djeca.
+* Jednu bitku tijekom zauzimanje Berlina vodila je postrojba Hitlerove mladeži koja je pomagala u obrani Reichstaga. Prema svim mjerilima, oni su se fanatično borili do smrti. Procjene žrtava na sovjetskoj strani, prilikom zauzimanja te zgrade, idu čak do 10.000. Iako je to teško točno potvrditi, nema sumnje da je to bilo pravo krvoproliće u kojem su sudjelovala djeca.
