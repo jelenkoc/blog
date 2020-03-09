@@ -1,6 +1,7 @@
 +++
 author = ""
 date = 2020-03-05T23:00:00Z
+draft = true
 featured_image = "images/JOJO_RABBIT_MAIN.jpg"
 images = []
 summary = "Jojo Rabbit je satira na temu Drugog svjetskog rata koja prati desetogodišnjeg njemačkog dječaka, člana Hitlerove mladeži, čiji se pogled na svijet okrene naopako kada otkrije da njegova samohrana majka krije mladu židovsku djevojku na njihovom tavanu."
@@ -26,9 +27,7 @@ Johannes "Jojo" Betzler, član Hitlerove mladeži,  saznaje da njegova majka kri
 
 **Zanimljivosti:**
 
-* **Hitlerova mladež** (njemački, Hitlerjugend) je organizacija za obrazovanje i obuku muške mladeži na nacističkim principima koju je osnovao Adolf Hitler 1933. godine . Pod vodstvom Baldura von Schiracha, voditelja svih njemačkih programa za mlade, Hitlerova mladež je do 1935. godine uključivala gotovo 60 posto njemačkih dječaka.
-
-  1\. srpnja 1936. postala je državna agencija kojoj su se trebali pridružiti svi mladi "arijski" Nijemci.
+* **Hitlerova mladež** (njemački, Hitlerjugend) je organizacija za obrazovanje i obuku muške mladeži na nacističkim principima koju je osnovao Adolf Hitler 1933. godine. Pod vodstvom Baldura von Schiracha, voditelja svih njemačkih programa za mlade, Hitlerova mladež je do 1935. godine uključivala gotovo 60 posto njemačkih dječaka. 1. srpnja 1936. postala je državna agencija kojoj su se trebali pridružiti svi mladi "arijski" Nijemci.
 
 ![](/images/Hitler-salute-2-2759aff.jpg)
 
