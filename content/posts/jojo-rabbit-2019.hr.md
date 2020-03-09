@@ -1,6 +1,7 @@
 +++
 author = ""
 date = 2020-03-08T23:00:00Z
+draft = true
 featured_image = "images/JOJO_RABBIT_MAIN.jpg"
 images = []
 summary = "Jojo Rabbit je satira na temu Drugog svjetskog rata koja prati desetogodišnjeg njemačkog dječaka, člana Hitlerove mladeži, čiji se pogled na svijet okrene naopako kada otkrije da njegova samohrana majka krije mladu židovsku djevojku na njihovom tavanu."
@@ -18,7 +19,7 @@ toc = false
 
 **Kratki sadržaj:**
 
-Johannes "Jojo" Betzler, član Hitlerove mladeži,  saznaje da njegova majka krije židovsku djevojku na njihovom tavanu. Zbog toga preispituje svoja uvjerenja, dok se istovremeno bavi intervencijama svog imaginarnog prijatelja, maštovite verzija Adolfa Hitlera.
+Johannes "Jojo" Betzler, član Hitlerove mladeži,  saznaje da njegova majka krije židovsku djevojku na njihovom tavanu. Zbog toga preispituje svoja uvjerenja dok se istovremeno bavi intervencijama svog imaginarnog prijatelja, maštovite verzije Adolfa Hitlera.
 
 **PROSTOR:** Njemačka
 
