@@ -1,6 +1,7 @@
 +++
 author = ""
 date = 2020-03-05T23:00:00Z
+draft = true
 featured_image = "images/JOJO_RABBIT_MAIN.jpg"
 images = []
 summary = "Jojo Rabbit is a World War II satire that follows a 10-year old German boy, a Hitler Youth member, whose world view is turned upside down when he discovers that his single mother is hiding a young Jewish girl in their attic."
@@ -39,9 +40,7 @@ Johannes "Jojo" Betzler, a Hitler Youth member finds out his mother  is hiding a
 ![](/images/BUND_detche_madel.jpg)
 
 * The Hitler Youth were used to spy on religious classes, Bible studies and other youth organisations.
-* As the war deepened and Germany was running out of men, Hitler Youth were used to fill some positions normally associated with the military within Germany. They were used to supplant the local **Volkssturm** (local militia) units in some places. They manned anti-aircraft guns, as previously noted in another answer.
-
-  Some, even though still children, were formed into actual military units in the closing months of the war and were expected to fight to the death.
+* As the war deepened and Germany was running out of men, Hitler Youth were used to fill some positions normally associated with the military within Germany. They were used to supplant the local **Volkssturm** (local militia) units in some places. They also manned anti-aircraft guns. Some, even though still children, were formed into actual military units in the closing months of the war and were expected to fight to the death.
 
 ![](/images/Nazi-child-1.jpg)
 
